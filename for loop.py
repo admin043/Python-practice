@@ -13,3 +13,4 @@ for x in a:
 if x == 'f':
 total=total+1
 print(a)
+
